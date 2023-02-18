@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hello! I'm H_wall 👋</h1>
 
-<!--
-**H-Wol/H-Wol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+**Back-end Engineer who want to make life easier**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in **`python` `Java`**
+
+<div align="left">
+
+---
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FH-Wol&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Notion Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://bubble-eye-dcb.notion.site/8a68f4f2dbfc4196855cbb858e035344)
+[![Notion Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=notion&logoColor=white)](https://bubble-eye-dcb.notion.site/H_Wall-s-Tech-Note-a16f0f2ec6ae4a8e9818b6e83d5b7dcd)
+<a href="mailto:hunyoon435@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+[![Github Badge](https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/H-Wol)
+
+</div>
+
+<div align="center">
+
+![H-Wol's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Wol&show_icons=true&theme=radical&count_private=true)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wall)](https://solved.ac/profile/wall)
+
+</div>
