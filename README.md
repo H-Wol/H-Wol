@@ -5,10 +5,10 @@
 **Back-end Engineer who want to make life easier**
 
 Interested in
-<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+ ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
+ ![](https://img.shields.io/badge/Python-000000?style=flat&logo=Python&logoColor=white")
+ ![](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=JavaScript&logoColor=white")
+
 
 <div align="left">
 
@@ -31,6 +31,10 @@ Interested in
 | ![H-Wol's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Wol&show_icons=true&theme=radical&count_private=true) | <a href="https://github.com/H-wol/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=H-wol&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wall)](https://solved.ac/profile/wall)
+
+| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wall)](https://solved.ac/profile/wall) | <img src="http://mazandi.herokuapp.com/api?handle=wall&theme=warm"/> |
+| ------------- | ------------- |
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=H-wol)](https://github.com/ryo-ma/github-profile-trophy) -->
+
 </div>
