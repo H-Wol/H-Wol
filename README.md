@@ -31,13 +31,11 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
-![H-Wol's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Wol&show_icons=true&theme=radical&count_private=true)
+| ![H-Wol's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-Wol&show_icons=true&theme=radical&count_private=true) | ![H-Wol's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H-wol&layout=compact&theme=buefy&hide_border=true) |
+|------|------|
 
-![H-Wol's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=H-wol&layout=compact&theme=buefy&hide_border=true)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wall)](https://solved.ac/profile/wall)
-
-[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=wall&theme=Dark)](http://mazandi.herokuapp.com/api?handle=wall&theme=Dark)
+| [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wall)](https://solved.ac/profile/wall) | [![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=wall&theme=Dark)](http://mazandi.herokuapp.com/api?handle=wall&theme=Dark) |
+|------|------|
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeauto&height=150&section=footer)
 
